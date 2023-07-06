@@ -1,0 +1,9 @@
+﻿import 'PMLNet_3'
+using namespace 'PMLNet_3'
+
+!MyPMLNet		= object MyPMLNet()
+!MyPMLNet.string()
+!MyPMLNet.MyProperty(|MyProp|)
+q var !MyPMLNet.MyProperty()
+!NewMyPMLNet	= !MyPMLNet
+q var !NewMyPMLNet.MyProperty()

@@ -1,0 +1,5 @@
+﻿import 'PMLNet_1'
+using namespace 'PMLNet_1'
+
+!MyPMLNet		= object MyPMLNet()
+!MyPMLNet.Start()

@@ -1,0 +1,23 @@
+﻿define object PmlObject
+
+endobject
+
+define method .PmlObject()
+
+endmethod
+
+define method .getArray(!array is string) is array
+  q var !array
+  -- !returnArray = !!collectAllFor('' , '' , !!CE)
+  !returnArray[1] = |ssssss|
+  !returnArray[2] = 2
+
+  return !returnArray
+endmethod
+
+define method .setArray(!values is ANY)
+
+  !p = !values
+  q var !p
+    
+endmethod

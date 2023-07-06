@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PMLNet/.vs/*
+/PMLNet/PMLNet_1/bin/*
+/PMLNet/PMLNet_2/bin/*
+/PMLNet/PMLNet_3/bin/*
+/PMLNet/PMLNet_4/bin/*
+/PMLNet/PMLNet_5/bin/*
+/PMLNet/PMLNet_1/obj/*
+/PMLNet/PMLNet_2/obj/*
+/PMLNet/PMLNet_3/obj/*
+/PMLNet/PMLNet_4/obj/*
+/PMLNet/PMLNet_5/obj/*

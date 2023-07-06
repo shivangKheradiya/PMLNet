@@ -1,0 +1,28 @@
+﻿import 'PMLNet_2'
+using namespace 'PMLNet_2'
+
+!p[1] = 1.2
+!p[2] = 2.4
+!p[4] = 2.4
+!MyPMLNet		= object MyPMLNet()
+q var !p
+!DoubleSum = !MyPMLNet.DoubleSum( !p[1] , !p[2] )
+q var !DoubleSum
+!DoubleSum = !MyPMLNet.DoubleSum( !p )
+q var !DoubleSum
+!arrayIndex = !MyPMLNet.IndexHashtable( !p )
+q var !arrayIndex
+!MyPMLNet.ReplaceHashtable(!p)
+q var !p
+!myString = !MyPMLNet.myString(|Shivang|)
+q var !myString
+!MyPMLNet.VarString(|Hi|)
+!VarString = !MyPMLNet.VarString()
+q var !VarString
+!MyBool = !MyPMLNet.MyBool( True )
+q var !MyBool
+!ShowMessageBox = object ShowMessageBox()
+!ShowMessageBox.Show(false)
+!MyPMLNet.ShowMsgBox(!ShowMessageBox)
+!ShowMessageBox.Show(true)
+!MyPMLNet.ShowMsgBox(!ShowMessageBox)

@@ -1,0 +1,11 @@
+﻿define object PmlObject
+
+endobject
+
+define method .PmlObject()
+
+endmethod
+
+define method .callback(!array is array)
+q var !array
+endmethod
