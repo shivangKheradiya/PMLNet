@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMLNet_1", "PMLNet_1\PMLNet_1.csproj", "{A09F6B2A-53A6-46F3-B466-9F8797CEE4F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A09F6B2A-53A6-46F3-B466-9F8797CEE4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09F6B2A-53A6-46F3-B466-9F8797CEE4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09F6B2A-53A6-46F3-B466-9F8797CEE4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09F6B2A-53A6-46F3-B466-9F8797CEE4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1DC7F56-DBB1-4AEA-ABBD-F507ECE24470}
+	EndGlobalSection
+EndGlobal
