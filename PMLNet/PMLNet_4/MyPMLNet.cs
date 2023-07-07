@@ -34,5 +34,16 @@ namespace PMLNet_4
             }
         }
 
+        [PMLNetCallable()]
+        public void ThrowNormalException()
+        {
+            throw new Exception();
+        }
+
+        [PMLNetCallable()]
+        public void ThrowPMLNetException()
+        {
+            throw new PMLNetException( 1000 , 100 , "My Exception" );
+        }
     }
 }
