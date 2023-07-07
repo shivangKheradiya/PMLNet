@@ -1,0 +1,9 @@
+﻿import 'PMLNet_4'
+using namespace 'PMLNet_4'
+
+!MyPMLNet		= object MyPMLNet()
+
+!PmlObject		= object PmlObject()
+!handler		= !MyPMLNet.addeventhandler('MyPmlNetEvent', !PmlObject , 'callback')
+
+!MyPMLNet.TriggerEvent()

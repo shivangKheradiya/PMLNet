@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMLNet_2", "PMLNet_2\PMLNet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMLNet_3", "PMLNet_3\PMLNet_3.csproj", "{97681ADB-F896-4EC4-977F-3D7B9913C36D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMLNet_4", "PMLNet_4\PMLNet_4.csproj", "{2A4AA6BA-7A45-45B7-B945-119B825AAB25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{97681ADB-F896-4EC4-977F-3D7B9913C36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97681ADB-F896-4EC4-977F-3D7B9913C36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97681ADB-F896-4EC4-977F-3D7B9913C36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4AA6BA-7A45-45B7-B945-119B825AAB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4AA6BA-7A45-45B7-B945-119B825AAB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4AA6BA-7A45-45B7-B945-119B825AAB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4AA6BA-7A45-45B7-B945-119B825AAB25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
