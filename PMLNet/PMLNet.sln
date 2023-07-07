@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.33423.256
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMLNet_1", "PMLNet_1\PMLNet_1.csproj", "{A09F6B2A-53A6-46F3-B466-9F8797CEE4F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMLNet_2", "PMLNet_2\PMLNet_2.csproj", "{83BB23B9-909E-4C2D-838A-89758EBD4E9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A09F6B2A-53A6-46F3-B466-9F8797CEE4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A09F6B2A-53A6-46F3-B466-9F8797CEE4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A09F6B2A-53A6-46F3-B466-9F8797CEE4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83BB23B9-909E-4C2D-838A-89758EBD4E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BB23B9-909E-4C2D-838A-89758EBD4E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BB23B9-909E-4C2D-838A-89758EBD4E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BB23B9-909E-4C2D-838A-89758EBD4E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
