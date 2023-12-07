@@ -1,0 +1,8 @@
+﻿import 'PMLNet_5'
+using namespace 'PMLNet_5'
+
+!MyPMLNet		= object MyPMLNet()
+
+!!myArray = |Shivang|
+
+!MyPMLNet.TestHashTableFromObject()

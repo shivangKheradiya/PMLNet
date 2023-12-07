@@ -1,0 +1,9 @@
+D:\PSN\CSharpProjects\PMLNet\PMLNet\PMLNet_5\bin\Debug\PMLNet_5.dll
+D:\PSN\CSharpProjects\PMLNet\PMLNet\PMLNet_5\bin\Debug\PMLNet_5.pdb
+D:\PSN\CSharpProjects\PMLNet\PMLNet\PMLNet_5\bin\Debug\PMLNet.dll
+D:\PSN\CSharpProjects\PMLNet\PMLNet\PMLNet_5\bin\Debug\ForeignLanguage.dll
+D:\PSN\CSharpProjects\PMLNet\PMLNet\PMLNet_5\obj\Debug\PMLNet_5.csproj.AssemblyReference.cache
+D:\PSN\CSharpProjects\PMLNet\PMLNet\PMLNet_5\obj\Debug\PMLNet_5.csproj.CoreCompileInputs.cache
+D:\PSN\CSharpProjects\PMLNet\PMLNet\PMLNet_5\obj\Debug\PMLNet_5.csproj.CopyComplete
+D:\PSN\CSharpProjects\PMLNet\PMLNet\PMLNet_5\obj\Debug\PMLNet_5.dll
+D:\PSN\CSharpProjects\PMLNet\PMLNet\PMLNet_5\obj\Debug\PMLNet_5.pdb
