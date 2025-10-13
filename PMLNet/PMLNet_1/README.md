@@ -57,7 +57,7 @@ Demonstrates the standard procedure for loading a C# DLL into AVEVA and using it
 1. Launch AVEVA (e.g., E3D).
 2. In Visual Studio, go to **Debug > Attach to Process**.
 3. Select the AVEVA process (e.g., `mod.exe` depends on which module you are testing) and attach the debugger.
-4. Set breakpoints in your code.
+4. Set breakpoints in your C# code.
 5. Trigger your method from PML to hit the breakpoints.
 
 ---
