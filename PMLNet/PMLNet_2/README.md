@@ -191,7 +191,7 @@ q var !p
 
 ### **8. Passing Custom C# Objects from PML**
 
-Illustrates how to send C# objects from PML and invoke their methods.
+Illustrates how to send C# objects from PML and invoke their methods. `ShowMessageBox` is an class defined in `C#`.
 
 ```csharp
 [PMLNetCallable()]
