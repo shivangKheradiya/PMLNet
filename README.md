@@ -35,6 +35,14 @@ Illustrates how PML objects can be accessed and manipulated from C#, with practi
 
 ---
 
+## 📦 Prerequisites
+
+- Visual Studio (2019 or later)
+- .NET Framework (version compatible with your AVEVA installation)
+- Access to AVEVA Software & It's installation directory
+
+---
+
 ## 🤝 Contributing
 
 This repository is open-source and welcomes contributions! If you have ideas, enhancements, or additional examples to share, feel free to:
