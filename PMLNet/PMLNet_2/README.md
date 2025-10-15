@@ -212,3 +212,14 @@ public void ShowMsgBox(ShowMessageBox messageBox)
 ```
 
 ---
+
+
+## 📘 **Summary**
+
+|PML Data Type|C# Data Type|
+|-------------|------------|
+|`boolean`    |`bool`      |
+|`real`       |`double`    |
+|`string`     |`string`    |
+|`array`      |`Hashtable` |
+|`any`        |`object`    |

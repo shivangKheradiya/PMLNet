@@ -53,7 +53,10 @@ public MyPMLNet(string myProperty)
 }
 ```
 
+**PML Usage:**
 ```pml
+!MyPMLNet       = object MyPMLNet()
+q var !MyPMLNet.MyProperty()
 !MyPMLNet		= object MyPMLNet(|Abcd Data|)
 q var !MyPMLNet.MyProperty()
 ```
@@ -73,6 +76,7 @@ public void Assign(MyPMLNet that)
 }
 ```
 
+**PML Usage:**
 ```pml
 !NewMyPMLNet	= !MyPMLNet
 q var !NewMyPMLNet.MyProperty()
@@ -92,6 +96,7 @@ public override string ToString()
 }
 ```
 
+**PML Usage:**
 ```pml
 !MyPMLNet.string()
 ```
