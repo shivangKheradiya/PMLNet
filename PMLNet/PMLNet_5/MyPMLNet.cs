@@ -12,8 +12,6 @@ namespace PMLNet_5
     [PMLNetCallable()]
     public class MyPMLNet
     {
-        public event PMLNetDelegate.PMLNetEventHandler MyPmlNetEvent;
-
         [PMLNetCallable()]
         public MyPMLNet()
         { }
@@ -35,7 +33,6 @@ namespace PMLNet_5
 
             object pmlNullObject = new object();
             PmlObject.invokeMethod("setArray", new object[] { scopeElements }, 1, ref pmlNullObject, true, true);
-
         }
     }
 }
