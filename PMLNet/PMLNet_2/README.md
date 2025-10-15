@@ -17,12 +17,15 @@ Before executing the examples, define the following PML variables:
 !p[1] = 1.2
 !p[2] = 2.4
 !p[4] = 2.4
+
+import 'PMLNet_2'
+using namespace 'PMLNet_2'
 !MyPMLNet = object MyPMLNet()
 ```
 
 ---
 
-## ⚙️ **Examples and Use Cases**
+## ⚙️ **Examples**
 
 ### **1. Passing Boolean Values**
 

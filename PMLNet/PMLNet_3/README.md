@@ -9,12 +9,15 @@ Showcases method assignment and overriding in C# for use within PML scripts.
 Before executing the examples, define the following PML variables:
 
 ```pml
+import 'PMLNet_3'
+using namespace 'PMLNet_3'
+
 !MyPMLNet = object MyPMLNet()
 ```
 
 ---
 
-## ⚙️ **Examples and Use Cases**
+## ⚙️ **Examples**
 
 ### **1. `MyProperty`**
 
@@ -35,7 +38,7 @@ q var !MyPMLNet.MyProperty()
 
 ---
 
-### **2. Constructors**
+### **2. Constructors and Overloading**
 
 The class defines two constructors:
 
