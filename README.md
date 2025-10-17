@@ -1,6 +1,6 @@
 # 🚀 C# PMLNet Examples
 
-This repository provides a curated set of examples for customizing **AVEVA** applications using **C#** via **PMLNet**. It demonstrates how to build dynamic link libraries (DLLs), integrate them with AVEVA modules, and enable seamless data exchange between **C#** and **PML (Plant Modeling Language)**.
+This repository provides a curated set of examples for customizing **AVEVA** applications using **C#** via **PMLNet**. It demonstrates how to build dynamic link libraries (DLLs), integrate them with AVEVA modules, and enable seamless data exchange between **C#** and **PML**.
 
 ---
 
